@@ -53,9 +53,6 @@ To exit, type `exit`, `quit`, or `bye`.
 - Improve NLP capabilities for better query understanding.
 - Implement a web-based interface.
 
-## License
-This project is open-source and available under the MIT License.
 
-## Contributions
-Contributions are welcome! Feel free to submit issues or pull requests to improve the chatbot.
+
 
